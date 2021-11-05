@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Make a Datapack!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Hey! Wanna make a Minecraft Datapack for Java? Well, this is
+your chance! Go ahead and follow this guide and lets get to it!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
-
-Contents
+How to start?
 --------
 
-.. toctree::
+.. toctree:: When making a Minecraft Datapack, it all starts in one folder. This folder can be called anything, but its important you don't lose this folder.
 
-   usage
-   api
